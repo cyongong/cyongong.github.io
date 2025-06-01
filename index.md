@@ -4,14 +4,14 @@ layout: homepage
 
 ## About Me
 
-<p style="font-size: 18px;">
+<p style="font-size: 16px;">
 I am a first-year Ph.D. student at KAIST, advised by Professor 
 <a href="https://mm.kaist.ac.kr/joon/">Joon Son Chung</a>. 
 My research centers on <strong>multimodal learning</strong>, with a particular focus on deepening the understanding and reasoning capabilities of 
 <strong>multi-modal large language models (MLLMs)</strong>.
 </p>
 
-<p style="font-size: 18px;">
+<p style="font-size: 16px;">
 I am also passionate about generative modeling in audio, including text-to-audio generation, as well as speech-related tasks such as speech enhancement, source separation, and lip-to-speech synthesis.
 </p>
 
@@ -22,10 +22,8 @@ I am also passionate about generative modeling in audio, including text-to-audio
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2025]** Two papers are accepted to Interspeech 2025.
+- **[Mar. 2025]** I started Ph.D course in <a href="https://mm.kaist.ac.kr">MMAI</a>, KAIST!
 
 {% include_relative _includes/publications.md %}
 
