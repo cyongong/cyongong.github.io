@@ -4,9 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at KAIST, advised by Professor <a href="https://mm.kaist.ac.kr/joon/">Joon Son Chung</a>. My research centers on **multimodal learning**, with a particular focus on deepening the understanding and reasoning capabilities of **multi-modal large language models (MLLMs)**.
+<p style="font-size: 18px;">
+I am a first-year Ph.D. student at KAIST, advised by Professor 
+<a href="https://mm.kaist.ac.kr/joon/">Joon Son Chung</a>. 
+My research centers on <strong>multimodal learning</strong>, with a particular focus on deepening the understanding and reasoning capabilities of 
+<strong>multi-modal large language models (MLLMs)</strong>.
+</p>
 
+<p style="font-size: 18px;">
 I am also passionate about generative modeling in audio, including text-to-audio generation, as well as speech-related tasks such as speech enhancement, source separation, and lip-to-speech synthesis.
+</p>
 
 ## Research Interests
 
