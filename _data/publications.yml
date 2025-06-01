@@ -1,7 +1,7 @@
 main:
 
   - title: "InfiniteAudio: Infinite-Length Audio Generation with Consistent Acoustic Attributes"
-    authors: <strong>Chaeyoung Jung</strong>, Hojoon Ki, Ji-Hoon Kim, Joon Son Chung
+    authors: <strong>Chaeyoung Jung</strong>, Hojoon Ki, Ji-Hoon Kim, Junmo Kim, Joon Son Chung
     conference_short: Interspeech
     conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.16798
