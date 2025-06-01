@@ -17,7 +17,7 @@ I am also passionate about generative modeling in audio, including text-to-audio
 
 ## Research Interests
 
-- **Multi-modal large language models**: audio-visual large language models, contrastive-decoding
+- **MLLMs**: audio-visual large language models, contrastive-decoding
 - **Generative models**: text-to-audio generation, speech enhancement, source separation, lip-to-speech synthesis
 
 ## News
