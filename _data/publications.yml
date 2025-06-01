@@ -5,7 +5,7 @@ main:
     conference_short: Interspeech
     conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.16798
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/git_infinite.png
 
 
   - title: "SEED: Speaker Embedding Enhancement Diffusion Model"
@@ -13,14 +13,14 @@ main:
     conference_short: Interspeech
     conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.16798
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/git_seed.png
 
   - title: "From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech"
     authors: Ji-Hoon Kim, Jeongsoo Choi, Jaehun Kim, <strong>Chaeyoung Jung</strong>, Joon Son Chung
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/abs/2503.16956
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/git_fromfaces.png
     
 
   - title: "Voicedit: Dual-condition diffusion transformer for environment-aware speech synthesis"
@@ -29,7 +29,7 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://arxiv.org/abs/2412.19259
     code: https://github.com/kaistmm/VoiceDiT
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/git_voicedit.png
     
   - title: "FlowAVSE: Efficient audio-visual speech enhancement with conditional flow matching"
     authors: <strong>Chaeyoung Jung</strong>, Suyeon Lee, Ji-Hoon Kim, Joon Son Chung
@@ -37,7 +37,7 @@ main:
     conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2024.
     pdf: https://arxiv.org/abs/2406.09286
     code: https://github.com/kaistmm/FlowAVSE
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/git_flowavse.png
 
   - title: "Seeing through the conversation: Audio-visual speech separation based on diffusion model"
     authors: Suyeon Lee*, <strong>Chaeyoung Jung*</strong>, Youngjoon Jang, Jaehun Kim, Joon Son Chung
@@ -45,7 +45,7 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://arxiv.org/abs/2310.19581
     code: https://github.com/kaistmm/AVDiffuSS
-    image: ./assets/img/teaser_example.png
+    image: ./assets/img/git_avdiffuss.png
 
   - title: "Talknce: Improving active speaker detection with talk-aware contrastive learning"
     authors: <strong>Chaeyoung Jung*</strong>, Suyeon Lee*, Kihyun Nam, Kyeongha Rho, You Jin Kim, Youngjoon Jang, Joon Son Chung
@@ -53,6 +53,6 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
     pdf: https://arxiv.org/abs/2309.12306
     code: https://github.com/kaistmm/TalkNCE
-    image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/git_talknce.png
 
  
