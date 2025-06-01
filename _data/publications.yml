@@ -1,22 +1,58 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: "InfiniteAudio: Infinite-Length Audio Generation with Consistent Acoustic Attributes"
+    authors: <strong>Chaeyoung Jung</strong>, Hojoon Ki, Ji-Hoon Kim, Joon Son Chung
+    conference_short: Interspeech
+    conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2505.16798
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+
+  - title: "SEED: Speaker Embedding Enhancement Diffusion Model"
+    authors: KiHyun Nam, Jungwoo Heo, Jee-weon Jung, Gangin Park, <strong>Chaeyoung Jung</strong>, Ha-Jin Yu, Joon Son Chung
+    conference_short: Interspeech
+    conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2505.16798
+    image: ./assets/img/teaser_example_2.png
+
+  - title: "From Faces to Voices: Learning Hierarchical Representations for High-quality Video-to-Speech"
+    authors: Ji-Hoon Kim, Jeongsoo Choi, Jaehun Kim, <strong>Chaeyoung Jung</strong>, Joon Son Chung
     conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2503.16956
+    image: ./assets/img/teaser_example_2.png
+    
+
+  - title: "Voicedit: Dual-condition diffusion transformer for environment-aware speech synthesis"
+    authors: Jaemin Jung, Junseok Ahn, <strong>Chaeyoung Jung</strong>, Tan Dat Nguyen, Youngjoon Jang, Joon Son Chung
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2412.19259
+    code: https://github.com/kaistmm/VoiceDiT
+    image: ./assets/img/teaser_example_2.png
+    
+  - title: "FlowAVSE: Efficient audio-visual speech enhancement with conditional flow matching"
+    authors: <strong>Chaeyoung Jung</strong>, Suyeon Lee, Ji-Hoon Kim, Joon Son Chung
+    conference_short: Interspeech
+    conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2406.09286
+    code: https://github.com/kaistmm/FlowAVSE
+    image: ./assets/img/teaser_example_2.png
+
+  - title: "Seeing through the conversation: Audio-visual speech separation based on diffusion model"
+    authors: Suyeon Lee*, <strong>Chaeyoung Jung*</strong>, Youngjoon Jang, Jaehun Kim, Joon Son Chung
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2310.19581
+    code: https://github.com/kaistmm/AVDiffuSS
     image: ./assets/img/teaser_example.png
+
+  - title: "Talknce: Improving active speaker detection with talk-aware contrastive learning"
+    authors: <strong>Chaeyoung Jung*</strong>, Suyeon Lee*, Kihyun Nam, Kyeongha Rho, You Jin Kim, Youngjoon Jang, Joon Son Chung
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2309.12306
+    code: https://github.com/kaistmm/TalkNCE
+    image: ./assets/img/teaser_example_2.png
+
+ 
