@@ -4,7 +4,7 @@ main:
     authors: <strong>Chaeyoung Jung</strong>, Hojoon Ki, Ji-Hoon Kim, Junmo Kim, Joon Son Chung
     conference_short: Interspeech
     conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2505.16798
+    pdf: https://arxiv.org/abs/2506.03020
     image: ./assets/img/git_infinite.png
 
 
@@ -24,7 +24,7 @@ main:
     
 
   - title: "Voicedit: Dual-condition diffusion transformer for environment-aware speech synthesis"
-    authors: Jaemin Jung, Junseok Ahn, <strong>Chaeyoung Jung</strong>, Tan Dat Nguyen, Youngjoon Jang, Joon Son Chung
+    authors: Jaemin Jung*, Junseok Ahn*, <strong>Chaeyoung Jung</strong>, Tan Dat Nguyen, Youngjoon Jang, Joon Son Chung
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://arxiv.org/abs/2412.19259
