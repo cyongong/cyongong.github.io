@@ -6,6 +6,7 @@ main:
     conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
     pdf: https://arxiv.org/abs/2506.03020
     image: ./assets/img/git_infinite.png
+  
 
 
   - title: "SEED: Speaker Embedding Enhancement Diffusion Model"
@@ -21,6 +22,7 @@ main:
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     pdf: https://arxiv.org/abs/2503.16956
     image: ./assets/img/git_fromfaces.png
+    notes: Highlight
     
 
   - title: "Voicedit: Dual-condition diffusion transformer for environment-aware speech synthesis"
@@ -46,6 +48,7 @@ main:
     pdf: https://arxiv.org/abs/2310.19581
     code: https://github.com/kaistmm/AVDiffuSS
     image: ./assets/img/git_avdiffuss.png
+    notes: Oral
 
   - title: "Talknce: Improving active speaker detection with talk-aware contrastive learning"
     authors: <strong>Chaeyoung Jung*</strong>, Suyeon Lee*, Kihyun Nam, Kyeongha Rho, You Jin Kim, Youngjoon Jang, Joon Son Chung
@@ -54,5 +57,6 @@ main:
     pdf: https://arxiv.org/abs/2309.12306
     code: https://github.com/kaistmm/TalkNCE
     image: ./assets/img/git_talknce.png
+    notes: Oral
 
  
