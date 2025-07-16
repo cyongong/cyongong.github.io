@@ -1,12 +1,12 @@
 main:
   - title: "Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models"
-    authors: <strong>Chaeyoung Jung</strong>, Youngjoon Jang, Jongmin Choi, Joon Son Chung
+    authors: <strong>Chaeyoung Jung*</strong>, Youngjoon Jang*, Jongmin Choi, Joon Son Chung
     conference: Preprint, 2025.
     pdf: https://arxiv.org/abs/2505.20873
     image: ./assets/img/FMD.png
 
   - title: "AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding"
-    authors: <strong>Chaeyoung Jung</strong>, Youngjoon Jang, Joon Son Chung
+    authors: <strong>Chaeyoung Jung*</strong>, Youngjoon Jang*, Joon Son Chung
     conference: Preprint, 2025.
     pdf: https://arxiv.org/abs/2505.20862
     image: ./assets/img/AVCd.png
