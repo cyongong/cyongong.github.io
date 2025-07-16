@@ -5,7 +5,7 @@ main:
     pdf: https://arxiv.org/abs/2505.20873
     image: ./assets/img/FMD.png
 
-- title: "AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding"
+  - title: "AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding"
     authors: <strong>Chaeyoung Jung</strong>, Youngjoon Jang, Joon Son Chung
     conference_short: Preprint
     pdf: https://arxiv.org/abs/2505.20862
