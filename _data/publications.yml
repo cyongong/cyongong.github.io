@@ -1,5 +1,17 @@
 main:
+  - title: "Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models"
+    authors: <strong>Chaeyoung Jung</strong>, Youngjoon Jang, Jongmin Choi, Joon Son Chung
+    conference_short: Preprint
+    pdf: https://arxiv.org/abs/2505.20873
+    image: ./assets/img/git_infinite.png
 
+- title: "AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding"
+    authors: <strong>Chaeyoung Jung</strong>, Youngjoon Jang, Joon Son Chung
+    conference_short: Preprint
+    pdf: https://arxiv.org/abs/2505.20862
+    image: ./assets/img/git_infinite.png
+
+    
   - title: "InfiniteAudio: Infinite-Length Audio Generation with Consistent Acoustic Attributes"
     authors: <strong>Chaeyoung Jung</strong>, Hojoon Ki, Ji-Hoon Kim, Junmo Kim, Joon Son Chung
     conference_short: Interspeech
