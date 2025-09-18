@@ -7,7 +7,8 @@ main:
 
   - title: "AVCD: Mitigating Hallucinations in Audio-Visual Large Language Models through Contrastive Decoding"
     authors: <strong>Chaeyoung Jung*</strong>, Youngjoon Jang*, Joon Son Chung
-    conference: Preprint, 2025.
+    conference_short: NIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NIPS)</strong>, 2025.
     pdf: https://arxiv.org/abs/2505.20862
     image: ./assets/img/AVCd.png
 
@@ -18,6 +19,7 @@ main:
     conference: Conference of the International Speech Communication Association <strong>(Interspeech)</strong>, 2025.
     pdf: https://arxiv.org/abs/2506.03020
     image: ./assets/img/git_infinite.png
+    notes: Oral
   
 
 
