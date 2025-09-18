@@ -22,6 +22,7 @@ I am also passionate about generative modeling in audio, including text-to-audio
 
 ## News
 
+- **[Sep. 2025]** One paper is accepted to Neurips 2025.
 - **[May. 2025]** Two papers are accepted to Interspeech 2025.
 - **[Mar. 2025]** I started Ph.D course in <a href="https://mm.kaist.ac.kr">MMAI</a>, KAIST!
 
