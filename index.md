@@ -17,12 +17,13 @@ I am also passionate about generative modeling in audio, including text-to-audio
 
 ## Research Interests
 
-- **MLLMs**: audio-visual large language models, contrastive-decoding
+- **MLLMs**: audio-visual large language models, speech processing
 - **Generative models**: text-to-audio generation, speech enhancement, source separation, lip-to-speech synthesis
 
 ## News
 
-- **[Sep. 2025]** One paper is accepted to Neurips 2025.
+- **[Jan. 2026]** One paper is accepted to ICASSP 2026.
+- **[Sep. 2025]** One paper is accepted to NeurIPS 2025.
 - **[May. 2025]** Two papers are accepted to Interspeech 2025.
 - **[Mar. 2025]** I started Ph.D course in <a href="https://mm.kaist.ac.kr">MMAI</a>, KAIST!
 
