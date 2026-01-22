@@ -3,7 +3,7 @@ main:
     authors: <strong>Chaeyoung Jung</strong>, Youngjoon Jang, Seungwoo Lee, Joon Son Chung
     conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2026.
-    pdf: https://arxiv.org/abs/2505.20873
+    pdf: https://www.arxiv.org/abs/2601.13143
     image: ./assets/img/FastAV.png
     
   - title: "Fork-Merge Decoding: Enhancing Multimodal Understanding in Audio-Visual Large Language Models"
