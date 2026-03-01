@@ -16,7 +16,7 @@ I am also passionate about generative modeling in audio, including text-to-audio
 </p>
 
 ## Work Experience
-- Research Intern at **Meta Reality Lab**, Burlingame, CA (2026.06 - 2026.10, Expected)
+- Research Intern at **Meta Reality Lab**, Burlingame, CA (2026.06 - 2026.11, Expected)
   - Supervised by <a href="https://scholar.google.com/citations?user=cPtgl3wAAAAJ&hl=en&oi=ao">Zhaojiang Lin</a>
 
 ## Education
