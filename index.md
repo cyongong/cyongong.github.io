@@ -15,8 +15,11 @@ My research centers on <strong>multimodal learning</strong>, with a particular f
 I am also passionate about generative modeling in audio, including text-to-audio generation, as well as speech-related tasks such as speech enhancement, source separation, and lip-to-speech synthesis.
 </p>
 
-## Research Interests
+## Work Experience
+- Research Intern at **Meta Reality Lab**, Burlingame, CA (2026.06 - 2026.10, Expected)
+  - Supervised by <a href="https://scholar.google.com/citations?user=cPtgl3wAAAAJ&hl=en&oi=ao">Zhaojiang Lin</a>
 
+## Research Interests
 - **AV-LLMs**: modality balancing, audio-visual reasoning
 - **Generative models**: text-to-audio generation, speech enhancement, source separation, lip-to-speech synthesis
 
