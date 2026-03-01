@@ -19,9 +19,13 @@ I am also passionate about generative modeling in audio, including text-to-audio
 - Research Intern at **Meta Reality Lab**, Burlingame, CA (2026.06 - 2026.10, Expected)
   - Supervised by <a href="https://scholar.google.com/citations?user=cPtgl3wAAAAJ&hl=en&oi=ao">Zhaojiang Lin</a>
 
-## Research Interests
-- **AV-LLMs**: modality balancing, audio-visual reasoning
-- **Generative models**: text-to-audio generation, speech enhancement, source separation, lip-to-speech synthesis
+## Education
+- Korea Advanced Institute of Science and Technology (KAIST), South Korea  (2025.03 - 2028.02, Expected)
+  - Ph.D in Electrical Engineering (advisor: Prof. Joon Son Chung) 
+- Korea Advanced Institute of Science and Technology (KAIST), South Korea  (2023.03 - 2025.02)
+  - M.S in Electrical Engineering (advisor: Prof. Joon Son Chung) 
+- Korea Advanced Institute of Science and Technology (KAIST), South Korea  (2018.03 - 2023.02)
+  - B.S in Electrical Engineering 
 
 ## News
 
