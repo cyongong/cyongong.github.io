@@ -20,11 +20,11 @@ I am also passionate about generative modeling in audio, including text-to-audio
   - Supervised by <a href="https://scholar.google.com/citations?user=cPtgl3wAAAAJ&hl=en&oi=ao">Zhaojiang Lin</a>
 
 ## Education
-- Korea Advanced Institute of Science and Technology (KAIST), South Korea  (2025.03 - 2028.02, Expected)
+- Korea Advanced Institute of Science and Technology (**KAIST**), South Korea  (2025 - 2028, Expected)
   - Ph.D in Electrical Engineering (advisor: Prof. Joon Son Chung) 
-- Korea Advanced Institute of Science and Technology (KAIST), South Korea  (2023.03 - 2025.02)
+- Korea Advanced Institute of Science and Technology (**KAIST**), South Korea  (2023 - 2025)
   - M.S in Electrical Engineering (advisor: Prof. Joon Son Chung) 
-- Korea Advanced Institute of Science and Technology (KAIST), South Korea  (2018.03 - 2023.02)
+- Korea Advanced Institute of Science and Technology (**KAIST**), South Korea  (2018 - 2023)
   - B.S in Electrical Engineering 
 
 ## News
