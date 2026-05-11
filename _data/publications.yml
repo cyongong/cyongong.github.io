@@ -1,4 +1,11 @@
 main:
+  - title: "Probing Cross-modal Information Hubs in Audio-Visual LLMs"
+    authors: Jihoo Jung, <strong>Chaeyoung Jung</strong>, Ji-Hoon Kim, Joon Son Chung
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: 
+    image: ./assets/img/probing.png
+
   - title: "FastAV: Efficient Token Pruning for Audio-Visual Large Language Model Inference"
     authors: <strong>Chaeyoung Jung</strong>, Youngjoon Jang, Seungwoo Lee, Joon Son Chung
     conference_short: ICASSP
