@@ -7,7 +7,7 @@ layout: homepage
 <p style="font-size: 16px;">
 I am a second-year Ph.D. student at KAIST, advised by Professor 
 <a href="https://mm.kaist.ac.kr/joon/">Joon Son Chung</a>. 
-My research focuses on <strong>Omni-LLMs</strong>, especially <strong>audio-visual and speech-processing LLMs (AV-LLMs)</strong>, aiming to advance how models perceive, reason, and interact across modalities.
+My research focuses on <strong>Omni-LLMs</strong>, particularly <strong>audio-visual and speech processing</strong>, to advance how models perceive, reason, and interact across modalities.
 </p>
 
 <p style="font-size: 16px;">
