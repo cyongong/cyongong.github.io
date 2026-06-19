@@ -7,7 +7,7 @@ layout: homepage
 <p style="font-size: 16px;">
 I am a second-year Ph.D. student at KAIST, advised by Professor 
 <a href="https://mm.kaist.ac.kr/joon/">Joon Son Chung</a>. 
-My research focuses on <strong>Omni-LLMs</strong>, particularly <strong>audio-visual and speech processing</strong>, to advance how models perceive, reason, and interact across modalities.
+My research focuses on <strong>Omni-LLMs</strong>, particularly with an <strong>audio-centric perspective</strong>, to advance how models perceive, reason, and interact across modalities.
 </p>
 
 <p style="font-size: 16px;">
@@ -15,7 +15,7 @@ I am also passionate about generative modeling in audio, including text-to-audio
 </p>
 
 ## Work Experience
-- Research Intern at **Meta Reality Lab**, Sunnyvale, CA (2026.06 - 2026.11, Expected)
+- Research Intern at **Meta Reality Lab**, Menlo Park, CA (2026.06 - 2026.11, Expected)
   - Supervised by <a href="https://scholar.google.com/citations?user=cPtgl3wAAAAJ&hl=en&oi=ao">Zhaojiang Lin</a>
 
 ## Education
