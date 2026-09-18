@@ -15,7 +15,7 @@ I am also passionate about generative modeling in audio, including text-to-audio
 </p>
 
 ## Work Experience
-- Research Intern at **Meta Reality Lab**, Menlo Park, CA (2026.06 - 2026.11, Expected)
+- Research Intern at **Meta Reality Lab**, Menlo Park, CA (2026.06 - 2026.10, Expected)
   - Supervised by <a href="https://scholar.google.com/citations?user=cPtgl3wAAAAJ&hl=en&oi=ao">Zhaojiang Lin</a>
 
 ## Education
@@ -28,6 +28,7 @@ I am also passionate about generative modeling in audio, including text-to-audio
 
 ## News
 
+- **[Sep. 2026]** One paper is accepted to EMNLP findings 2026.
 - **[May. 2026]** One paper is accepted to ICML 2026.
 - **[Jan. 2026]** One paper is accepted to ICASSP 2026.
 - **[Sep. 2025]** One paper is accepted to NeurIPS 2025.
